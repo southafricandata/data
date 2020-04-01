@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "year": 2020,
+      "total_population": 59308690,
+      "percent_male": 49.26,
+      "percent_female": 50.74,
+      "pop_density": 48.57,
+      "total_population_rank": 25,
+      "percent_growth_rate": "1.28"
+    },
+    {
+      "year": 2019,
+      "total_population": 58558270,
+      "percent_male": 49.28,
+      "percent_female": 50.72,
+      "pop_density": 47.96,
+      "total_population_rank": 24,
+      "percent_growth_rate": 1.33
+    },
+    {
+      "year": 2018,
+      "total_population": 57792518,
+      "percent_male": 49.31,
+      "percent_female": 50.69,
+      "pop_density": 47.33,
+      "total_population_rank": 24,
+      "percent_growth_rate": 1.37
+    },
+    {
+      "year": 2017,
+      "total_population": 57009756,
+      "percent_male": 49.33,
+      "percent_female": 50.67,
+      "pop_density": 46.69,
+      "total_population_rank": 24,
+      "percent_growth_rate": 1.43
+    },
+    {
+      "year": 2016,
+      "total_population": 56207646,
+      "percent_male": 49.35,
+      "percent_female": 50.65,
+      "pop_density": 46.03,
+      "total_population_rank": 24,
+      "percent_growth_rate": 1.48
+    },
+    {
+      "year": 2015,
+      "total_population": 55386367,
+      "percent_male": 49.36,
+      "percent_female": 50.64,
+      "pop_density": 45.36,
+      "total_population_rank": 24,
+      "percent_growth_rate": 1.58
+    },
+    {
+      "year": 2010,
+      "total_population": 51216964,
+      "percent_male": 49.34,
+      "percent_female": 50.66,
+      "pop_density": 41.95,
+      "total_population_rank": 24,
+      "percent_growth_rate": 1.36
+    },
+    {
+      "year": 2005,
+      "total_population": 47880601,
+      "percent_male": 49.30,
+      "percent_female": 50.70,
+      "pop_density": 39.21,
+      "total_population_rank": 26,
+      "percent_growth_rate": 1.26
+    },
+    {
+      "year": 2000,
+      "total_population": 44967708,
+      "percent_male": 49.31,
+      "percent_female": 50.69,
+      "pop_density": 36.83,
+      "total_population_rank": 27,
+      "percent_growth_rate": 1.65
+    },
+    {
+      "year": 1995,
+      "total_population": 41435758,
+      "percent_male": 49.37,
+      "percent_female": 50.63,
+      "pop_density": 33.93,
+      "total_population_rank": 27,
+      "percent_growth_rate": 2.40
+    },
+    {
+      "year": 1990,
+      "total_population": 36800509,
+      "percent_male": 49.69,
+      "percent_female": 50.31,
+      "pop_density": 30.14,
+      "total_population_rank": 28,
+      "percent_growth_rate": 2.40
+    },
+    {
+      "year": 1985,
+      "total_population": 32678874,
+      "percent_male": 49.85,
+      "percent_female": 50.15,
+      "pop_density": 26.76,
+      "total_population_rank": 28,
+      "percent_growth_rate": 2.73
+    },
+    {
+      "year": 1980,
+      "total_population": 28556769,
+      "percent_male": 49.80,
+      "percent_female": 50.20,
+      "pop_density": 23.39,
+      "total_population_rank": 28,
+      "percent_growth_rate": 2.54
+    },
+    {
+      "year": 1975,
+      "total_population": 25195187,
+      "percent_male": 49.83,
+      "percent_female": 50.17,
+      "pop_density": 20.63,
+      "total_population_rank": 29,
+      "percent_growth_rate": 2.68
+    },
+    {
+      "year": 1970,
+      "total_population": 22069776,
+      "percent_male": 49.77,
+      "percent_female": 50.23,
+      "pop_density": 18.07,
+      "total_population_rank": 29,
+      "percent_growth_rate": 2.63
+    },
+    {
+      "year": 1965,
+      "total_population": 19384841,
+      "percent_male": 49.74,
+      "percent_female": 50.26,
+      "pop_density": 15.88,
+      "total_population_rank": 30,
+      "percent_growth_rate": 2.54
+    },
+    {
+      "year": 1960,
+      "total_population": 17099840,
+      "percent_male": 49.86,
+      "percent_female": 50.14,
+      "pop_density": 14.00,
+      "total_population_rank": 31,
+      "percent_growth_rate": "2.37"
+    },
+    {
+      "year": 1955,
+      "total_population": 15206502,
+      "percent_male": 50.08,
+      "percent_female": 49.92,
+      "pop_density": 12.45,
+      "total_population_rank": 31,
+      "percent_growth_rate": 2.22
+    },
+    {
+      "year": 1950,
+      "total_population": 13628428,
+      "percent_male": "5039",
+      "percent_female": "4961",
+      "pop_density": 11.16,
+      "total_population_rank": 31,
+      "percent_growth_rate": 0.00
+    }
+  ]
+}
