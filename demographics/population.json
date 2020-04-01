@@ -7,7 +7,7 @@
       "percent_female": 50.74,
       "pop_density": 48.57,
       "total_population_rank": 25,
-      "percent_growth_rate": "1.28"
+      "percent_growth_rate": 1.28
     },
     {
       "year": 2019,
@@ -151,7 +151,7 @@
       "percent_female": 50.14,
       "pop_density": 14.00,
       "total_population_rank": 31,
-      "percent_growth_rate": "2.37"
+      "percent_growth_rate": 2.37
     },
     {
       "year": 1955,
@@ -165,8 +165,8 @@
     {
       "year": 1950,
       "total_population": 13628428,
-      "percent_male": "5039",
-      "percent_female": "4961",
+      "percent_male": 50.39,
+      "percent_female": 49.61,
       "pop_density": 11.16,
       "total_population_rank": 31,
       "percent_growth_rate": 0.00
